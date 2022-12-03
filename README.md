@@ -79,7 +79,7 @@ Note: This won't be fast enough for the actual interview, but good to start with
 - finalising which problems should be included
 
 Easy:
-- 234. Palindrome linked list
+- 234 -- Palindrome linked list
 - 1. Two sums
 - 263. Ugly number
 - 342. Power of Four
