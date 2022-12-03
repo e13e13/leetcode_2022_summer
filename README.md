@@ -78,3 +78,21 @@ Note: This won't be fast enough for the actual interview, but good to start with
 # TODO:
 - finalising which problems should be included
 
+Easy:
+- 234. Palindrome linked list
+- 1. Two sums
+- 263. Ugly number
+- 342. Power of Four
+
+Medium:
+- 451. Sort Characters By Frequency
+- 167. Two Sum II - Input Array Is Sorted
+- 438. Find All Anagrams in a String
+- 264. Ugly Number II
+- 1201. Ugly Number III
+- 313. Super Ugly Number
+
+Hard:
+- 68. Text Justification
+
+
